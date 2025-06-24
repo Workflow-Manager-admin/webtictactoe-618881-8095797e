@@ -1,0 +1,46 @@
+[2025-06-24T11:11:00.047Z] info  code-server 4.101.1 bd34cd510f44b25d40b3e30ec9a706a949428c16
+[2025-06-24T11:11:00.048Z] info  Using user-data-dir /home/kavia/.local/share/code-server
+[2025-06-24T11:11:00.054Z] info  Using config file /home/kavia/.config/code-server/config.yaml
+[2025-06-24T11:11:00.055Z] info  HTTP server listening on http://0.0.0.0:8080/
+[2025-06-24T11:11:00.055Z] info    - Authentication is disabled
+[2025-06-24T11:11:00.055Z] info    - Not serving HTTPS
+[2025-06-24T11:11:00.055Z] info  Session server listening on /home/kavia/.local/share/code-server/code-server-ipc.sock
+[11:11:02] 
+
+
+
+
+[11:11:02] Extension host agent started.
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+[11:11:02] [192.168.65.1][8083f1f0][ManagementConnection] New connection established.
+[11:11:03] [192.168.65.1][ed86c07c][ExtensionHostConnection] New connection established.
+[11:11:03] ComputeTargetPlatform: linux-arm64
+[11:11:03] [192.168.65.1][ed86c07c][ExtensionHostConnection] <94> Launched Extension Host Process.
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda.js
+File not found: /usr/lib/code-server/lib/vscode/node_modules/vsda/rust/web/vsda_bg.wasm
+[11:11:09] [192.168.65.1][4c535352][ManagementConnection] New connection established.
+[11:11:10] [192.168.65.1][1e95ea64][ExtensionHostConnection] New connection established.
+[11:11:10] [192.168.65.1][1e95ea64][ExtensionHostConnection] <504> Launched Extension Host Process.
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 23
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 24
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 25
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 26
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 27
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 28
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 29
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 30
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 31
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 32
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 33
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 34
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 35
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 36
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 37
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 38
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 39
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 40
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 41
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 42
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 43
+[11:11:11] RequestStore#acceptReply was called without receiving a matching request 44

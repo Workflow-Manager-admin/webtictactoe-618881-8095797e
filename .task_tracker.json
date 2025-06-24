@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A simple tic tac toe game web application.', 'containers': [{'container_name': 'tic_tac_toe_frontend', 'platform': 'web', 'framework': 'react', 'description': 'Frontend web application for playing tic tac toe.', 'interfaces': 'User game interface accessible via web browser', 'relative_path': 'tic_tac_toe_frontend_workspace', 'dependencies': [], 'container_type': 'frontend', 'container_details': {'features': ['Interactive tic tac toe game board', 'Player turn indicator', 'Score tracking', 'Restart game option'], 'colors': {'primary': '#1976d2', 'secondary': '#424242', 'accent': '#ff9800'}, 'theme': 'light', 'layout_description': 'Centered game board with header and controls below the board.', 'style': 'modern'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/tmp/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
